@@ -1,5 +1,3 @@
-.
-
 # **🛒 eMartApp Microservices - Containerization Project**
 
 A fully containerized microservices-based e-commerce application using Docker. This project demonstrates how to package and orchestrate multiple microservices, each built with different technologies (Node.js, Java), integrated with multiple databases (MongoDB, MySQL), and exposed via an Nginx API Gateway.
